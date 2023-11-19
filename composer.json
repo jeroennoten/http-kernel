@@ -65,5 +65,10 @@
             "/Tests/"
         ]
     },
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "extra": {
+        "branch-alias": {
+            "dev-3.4-php8.2": "3.4-dev"
+        }
+    }
 }
